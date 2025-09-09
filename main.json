@@ -1,0 +1,18 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "title": "Living Room Ideas",
+      "image": "https://yourdomain.com/images/living-room.jpg",
+      "file": "living-room.json",
+      "type": "list"
+    },
+    {
+      "id": 2,
+      "title": "Bedroom Inspiration",
+      "image": "https://yourdomain.com/images/bedroom.jpg",
+      "file": "bedroom.json",
+      "type": "detail"
+    }
+  ]
+}
