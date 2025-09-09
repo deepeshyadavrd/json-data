@@ -1,0 +1,21 @@
+{
+  "title": "Dining Inspiration",
+  "type": "list",
+  "subtopics": [
+    {
+      "id": 1,
+      "title": "Minimalist Dining Design",
+      "file": "bedroom-minimalist.json"
+    },
+    {
+      "id": 2,
+      "title": "Cozy Dining Ideas",
+      "file": "bedroom-lighting.json"
+    },
+    {
+      "id": 3,
+      "title": "Storage-Friendly Layouts",
+      "file": "bedroom-storage.json"
+    }
+  ]
+}
