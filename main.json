@@ -13,6 +13,13 @@
       "image": "https://yourdomain.com/images/bedroom.jpg",
       "file": "bedroom.json",
       "type": "detail"
+    },
+    {
+      "id": 3,
+      "title": "Dining Room Inspiration",
+      "image": "https://yourdomain.com/images/dining.jpg",
+      "file": "dining.json",
+      "type": "detail"
     }
   ]
 }
