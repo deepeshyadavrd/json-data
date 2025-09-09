@@ -11,14 +11,14 @@
       "id": 2,
       "title": "Bedroom Inspiration",
       "image": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/refs/heads/main/images/bedroom.jpg",
-      "file": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/refs/heads/main/bedroom.json",
+      "file": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/main/bedroom.json",
       "type": "list"
     },
     {
       "id": 3,
       "title": "Dining Room Inspiration",
       "image": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/refs/heads/main/images/dining.jpg",
-      "file": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/refs/heads/main/dining.json",
+      "file": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/main/dining.json",
       "type": "list"
     }
   ]

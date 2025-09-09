@@ -1,21 +1,21 @@
 {
   "title": "Bedroom Inspiration",
   "type": "list",
-  "subtopics": [
+  "items": [
     {
       "id": 1,
       "title": "Minimalist Bedroom Design",
-      "file": "bedroom-minimalist.json"
+      "file": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/refs/heads/main/bedroom-minimalist.json"
     },
     {
       "id": 2,
       "title": "Cozy Lighting Ideas",
-      "file": "bedroom-lighting.json"
+      "file": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/refs/heads/main/bedroom-minimalist.json"
     },
     {
       "id": 3,
       "title": "Storage-Friendly Layouts",
-      "file": "bedroom-storage.json"
+      "file": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/refs/heads/main/bedroom-minimalist.json"
     }
   ]
 }
