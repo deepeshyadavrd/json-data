@@ -3,21 +3,21 @@
     {
       "id": 1,
       "title": "Living Room Ideas",
-      "image": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/refs/heads/main/images/living-room.jpg",
+      "image": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/refs/heads/main/images/living-room.webp",
       "file": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/refs/heads/main/living-room.json",
       "type": "detail"
     },
     {
       "id": 2,
       "title": "Bedroom Inspiration",
-      "image": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/refs/heads/main/images/bedroom.jpg",
+      "image": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/refs/heads/main/images/bedroom.webp",
       "file": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/main/bedroom.json",
       "type": "list"
     },
     {
       "id": 3,
       "title": "Dining Room Inspiration",
-      "image": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/refs/heads/main/images/dining.jpg",
+      "image": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/refs/heads/main/images/dining.webp",
       "file": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/main/dining.json",
       "type": "list"
     }
