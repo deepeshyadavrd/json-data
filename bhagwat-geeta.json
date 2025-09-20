@@ -1,0 +1,96 @@
+{
+  "title": "श्रीमद भागवत गीता",
+  "type": "list",
+  "items": [
+    {
+      "id": 1,
+      "title": "अर्जुन विषादयोग",
+      "file": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/main/bedroom-minimalist.json"
+    },
+    {
+      "id": 2,
+      "title": "साङ्ख्ययोग",
+      "file": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/main/bedroom-minimalist.json"
+    },
+    {
+      "id": 3,
+      "title": "कर्मयोग",
+      "file": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/main/bedroom-minimalist.json"
+    },
+    {
+      "id": 4,
+      "title": "ज्ञान कर्म संन्यासयोग",
+      "file": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/main/bedroom-minimalist.json"
+    },
+    {
+      "id": 5,
+      "title": "कर्म संन्यासयोग",
+      "file": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/main/bedroom-minimalist.json"
+    },
+    {
+      "id": 6,
+      "title": "आत्मसंयमयोग",
+      "file": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/main/bedroom-minimalist.json"
+    },
+    {
+      "id": 7,
+      "title": "ज्ञान विज्ञानयोग",
+      "file": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/main/bedroom-minimalist.json"
+    },
+    {
+      "id": 8,
+      "title": "अक्षर ब्रह्मयोग",
+      "file": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/main/bedroom-minimalist.json"
+    },
+    {
+      "id": 9,
+      "title": "राजविद्या राजगुह्ययोग",
+      "file": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/main/bedroom-minimalist.json"
+    },
+    {
+      "id": 10,
+      "title": "विभूतियोग",
+      "file": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/main/bedroom-minimalist.json"
+    },
+    {
+      "id": 11,
+      "title": "विश्वरूप दर्शनयोग",
+      "file": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/main/bedroom-minimalist.json"
+    },
+    {
+      "id": 12,
+      "title": "भक्तियोग",
+      "file": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/main/bedroom-minimalist.json"
+    },
+    {
+      "id": 13,
+      "title": "क्षेत्र क्षेत्रज्ञ विभागयोग",
+      "file": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/main/bedroom-minimalist.json"
+    },
+    {
+      "id": 14,
+      "title": "गुणत्रय विभागयोग",
+      "file": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/main/bedroom-minimalist.json"
+    },
+    {
+      "id": 15,
+      "title": "पुरुषोत्तमयोग",
+      "file": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/main/bedroom-minimalist.json"
+    },
+    {
+      "id": 16,
+      "title": "दैवासुर समद्विभागयोग",
+      "file": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/main/bedroom-minimalist.json"
+    },
+    {
+      "id": 17,
+      "title": "श्रद्धात्रय विभागयोग",
+      "file": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/main/bedroom-minimalist.json"
+    },
+    {
+      "id": 18,
+      "title": "मोक्ष संन्यासयोग",
+      "file": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/main/bedroom-minimalist.json"
+    }
+  ]
+}
