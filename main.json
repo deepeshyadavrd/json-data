@@ -2,16 +2,16 @@
   "topics": [
     {
       "id": 1,
-      "title": "Living Room Ideas",
+      "title": "श्री हनुमान चालीसा",
       "image": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/main/images/hanuman-chalisa.webp",
       "file": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/main/hanuman-chalisa.json",
       "type": "detail"
     },
     {
       "id": 2,
-      "title": "Bedroom Inspiration",
-      "image": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/main/images/bedroom.webp",
-      "file": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/main/bedroom.json",
+      "title": "बजरंग बाण",
+      "image": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/main/images/bajrang-baan.webp",
+      "file": "https://raw.githubusercontent.com/deepeshyadavrd/json-data/main/bajrang-baan.json",
       "type": "list"
     },
     {
